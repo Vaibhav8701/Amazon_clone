@@ -1,8 +1,8 @@
-#✅ Main Objective
+# Main Objective
 To build a visually appealing, responsive, and user-friendly Amazon-like homepage UI using only HTML and CSS—suitable for learning frontend development concepts like layout design, flexbox, hover effects, and styling consistency.
 
 # Key Features Implemented
-1.Header & Navigation Bar:
+# 1.Header & Navigation Bar:
 
 Amazon logo
 
@@ -16,19 +16,19 @@ Returns & orders section
 
 Cart icon with label
 
-2.Panel Menu:
+# 2.Panel Menu:
 
 Horizontal menu with options like Today’s Deals, Customer Service, Gift Cards, etc.
 
 Responsive design using Flexbox
 
-3.Hero Section:
+# 3.Hero Section:
 
 Large promotional banner with call-to-action link
 
 Encourages switching to localized Amazon (e.g., amazon.in)
 
-4.Shop/Product Sections:
+# 4.Shop/Product Sections:
 
 Eight category boxes (e.g., Clothes, Furniture, Electronics)
 
@@ -40,7 +40,7 @@ Image (set via CSS background-image)
 
 "See more" link
 
-5.Footer:
+# 5.Footer:
 
 "Back to Top" button
 
